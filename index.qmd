@@ -1,6 +1,6 @@
 ---
 title: "Cash Looi"
-image: CashLooi.png
+image: CashLooi.jpg
 about:
     id: hero-heading
     template: trestles
