@@ -1,31 +1,26 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+   # - docs
+    - styles.scss
 
 website:
-
   title: "Cash Looi"
   navbar:
+    background: primary
     left:
-      - href: index.qmd
-       # text: Home
-     # - about.qmd
-      #- conference.qmd
-=======
-  title: "Cash Looi"   # this becomes the "Home" link
-  navbar:
-    left:
-      - href: about.qmd
-        text: About
-      - href: conference.qmd
-        text: Conference
->>>>>>> d18df6dc8c7ec9cac5db521c878754ae63e9f3c0
+      - text: Home
+        href: index.qmd    
+
+body-footer: | 
+  Copyright:  Cash Looi, 2026
+
+date-format: "D MMMM YYYY"
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      - pulse
+      - styles.css
     toc: true
-
-editor: source
-
