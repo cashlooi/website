@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+
   title: "Cash Looi"
   navbar:
     left:
@@ -10,6 +11,15 @@ website:
        # text: Home
      # - about.qmd
       #- conference.qmd
+=======
+  title: "Cash Looi"   # this becomes the "Home" link
+  navbar:
+    left:
+      - href: about.qmd
+        text: About
+      - href: conference.qmd
+        text: Conference
+>>>>>>> d18df6dc8c7ec9cac5db521c878754ae63e9f3c0
 
 format:
   html:
