@@ -37,7 +37,7 @@ My research primarily focuses on categorical data analysis and Bayesian methods.
 [1]  [Beyond the 30% Threshold: Introducing a Subjective Indicator for Measuring Housing Affordability in Malaysia](https://www.degruyterbrill.com/document/doi/10.1515/9783111252520-003/html), in S. Vaithilingam, M. Nair, H.Q. Yeng & J.W.J. Ng (Eds.): Malaysian Housing Affordability: Deciphering the Black Box (pp. 27-56), De Gruyter (2025). Joint work with Jason Wei Jian Ng, Catherine Forbes, and Tomas Zelinsky.
 
 # Software
-[1] [blockstrap](https://cran.r-project.org/package=blockstrap): Sample dataframes by group, in the form of a ‘block bootstrap’, CRAN. Joint work with Michael Lydeamore, Kenyon Ng, and Mitchell O’Hara-Wild.
+[1] [blockstrap](https://cran.r-project.org/package=blockstrap): Sample dataframes by a group, CRAN. Joint work with Michael Lydeamore, Kenyon Ng, and Mitchell O’Hara-Wild.
 
 # Talks
 * **The 2026 ISBA World Meeting**, Nagoya, Japan — *Best Poster Prize*
