@@ -1,7 +1,0 @@
----
-title: "Conference"
----
-
-Conference
-
--   Bayes on the Beach 2026

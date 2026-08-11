@@ -13,7 +13,8 @@ format:
 
 Hi! My name is Cash and I am a third-year PhD student at the Department of Econometrics and Business Statistics, Monash University. My research focuses on categorical data analysis and Bayesian methods.
 
-# Working Paper 
+# Working Paper
+
 A Multinomial Probit Model for Asymmetric Choice Responses
 
 # Talks
