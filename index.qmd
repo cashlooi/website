@@ -1,20 +1,47 @@
 ---
 title: "Cash Looi"
-comments: false
 image: CashLooi.png
 about:
-  template: trestles
-  image-width: 15em
-  image-shape: round
+    id: hero-heading
+    template: trestles
+    image-shape: round
+    links:
+        - icon: envelope
+          text: Email
+          href: Cash.Looi@monash.edu
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/cashlooi/ 
+          
+engine: knitr
 format:
-  html:
-    css: styles.css
+    html:
+        page-layout: full
 ---
 
-Hi! My name is Cash and I am a third-year PhD student at the Department of Econometrics and Business Statistics, Monash University. My research focuses on categorical data analysis and Bayesian methods.
+::: {#hero-heading}
 
-# Working Paper
+# About me
+Hi, I’m Cash. I am a third-year PhD candidate in the Department of Econometrics and Business Statistics at Monash University. 
 
-A Multinomial Probit Model for Asymmetric Choice Responses
+My research primarily focuses on categorical data analysis and Bayesian methods. I am interested in developing flexible statistical frameworks to better understand choice behavior and asymmetric preferences. My experience also includes household survey design and applied research in housing affordability.
+
+# Working paper 
+[1] **A Multinomial Probit Model for Asymmetric Choice Responses**.  
+*Joint work with Ruben Loaiza-Maya, and Didier Nibbering*.  
+
+# Publication
+[1] [Measuring subjective housing affordability using a data-driven discrete information approach: A case study of Selangor, Malaysia](https://www.tandfonline.com/doi/full/10.1080/13504851.2023.2208833). Applied Economics Letters (2024). Joint work with Jason Wei Jian Ng, Tomas Zelinsky, and Catherine Forbes.
+
+# Book chapter
+[1]  [Beyond the 30% Threshold: Introducing a Subjective Indicator for Measuring Housing Affordability in Malaysia](https://www.degruyterbrill.com/document/doi/10.1515/9783111252520-003/html), in S. Vaithilingam, M. Nair, H.Q. Yeng & J.W.J. Ng (Eds.): Malaysian Housing Affordability: Deciphering the Black Box (pp. 27-56), De Gruyter (2025). Joint work with Jason Wei Jian Ng, Catherine Forbes, and Tomas Zelinsky.
+
+# Software
+[1] [blockstrap](https://cran.r-project.org/package=blockstrap): Sample dataframes by group, in the form of a ‘block bootstrap’, CRAN. Joint work with Michael Lydeamore, Kenyon Ng, and Mitchell O’Hara-Wild.
 
 # Talks
+* **The 2026 ISBA World Meeting**, Nagoya, Japan — *Best Poster Prize*
+\vspace{2em}
+* **The Bayesian Young Statisticians Meeting (BAYSM 2026)**, Chiba University, Japan
+\vspace{2em}
+* **Bayes on the Beach 2026**, University of Wollongong, Australia 

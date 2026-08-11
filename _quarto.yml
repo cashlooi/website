@@ -2,16 +2,15 @@ project:
   type: website
   output-dir: docs
   resources: 
-   # - docs
+    - docs
     - styles.scss
 
 website:
   title: "Cash Looi"
   navbar:
     background: primary
-    left:
-      - text: Home
-        href: index.qmd    
+    #left:
+     # - href: index.qmd    
 
 body-footer: | 
   Copyright:  Cash Looi, 2026
@@ -20,7 +19,7 @@ date-format: "D MMMM YYYY"
 
 format:
   html:
-    theme: 
-      - pulse
-      - styles.css
-    toc: true
+  
+    toc: false
+    css: styles.css
+    page-layout: full

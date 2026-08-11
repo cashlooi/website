@@ -7,17 +7,10 @@
     "text": "PhD…. EBS…. About this site"
   },
   {
-    "objectID": "conference.html",
-    "href": "conference.html",
-    "title": "Conference",
-    "section": "",
-    "text": "Conference\n\nBayes on the Beach 2026"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Cash Looi",
     "section": "",
-    "text": "Hi! My name is Cash and I am a second-year PhD student at the Department of Econometrics and Business Statistics, Monash University."
+    "text": "Email\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \n\nAbout me\nHi, I’m Cash. I am a third-year PhD candidate in the Department of Econometrics and Business Statistics at Monash University.\nMy research primarily focuses on categorical data analysis and Bayesian methods. I am interested in developing flexible statistical frameworks to better understand choice behavior and asymmetric preferences. My experience also includes household survey design and applied research in housing affordability.\n\n\nWorking paper\n[1] A Multinomial Probit Model for Asymmetric Choice Responses.\nJoint work with Ruben Loaiza-Maya, and Didier Nibbering.\n\n\nPublication\n[1] Measuring subjective housing affordability using a data-driven discrete information approach: A case study of Selangor, Malaysia. Applied Economics Letters (2024). Joint work with Jason Wei Jian Ng, Tomas Zelinsky, and Catherine Forbes.\n\n\nBook chapter\n[1] Beyond the 30% Threshold: Introducing a Subjective Indicator for Measuring Housing Affordability in Malaysia, in S. Vaithilingam, M. Nair, H.Q. Yeng & J.W.J. Ng (Eds.): Malaysian Housing Affordability: Deciphering the Black Box (pp. 27-56), De Gruyter (2025). Joint work with Jason Wei Jian Ng, Catherine Forbes, and Tomas Zelinsky.\n\n\nSoftware\n[1] blockstrap: Sample dataframes by group, in the form of a ‘block bootstrap’, CRAN. Joint work with Michael Lydeamore, Kenyon Ng, and Mitchell O’Hara-Wild.\n\n\nTalks\n\nThe 2026 ISBA World Meeting, Nagoya, Japan — Best Poster Prize \nThe Bayesian Young Statisticians Meeting (BAYSM 2026), Chiba University, Japan \nBayes on the Beach 2026, University of Wollongong, Australia"
   }
 ]
