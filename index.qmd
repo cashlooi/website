@@ -40,8 +40,10 @@ My research primarily focuses on categorical data analysis and Bayesian methods.
 [1] [blockstrap](https://cran.r-project.org/package=blockstrap): Sample dataframes by a group, CRAN. Joint work with Michael Lydeamore, Kenyon Ng, and Mitchell O’Hara-Wild.
 
 # Talks
-* **The 2026 ISBA World Meeting**, Nagoya, Japan — *Best Poster Prize*
-\vspace{2em}
-* **The Bayesian Young Statisticians Meeting (BAYSM 2026)**, Chiba University, Japan
-\vspace{2em}
-* **Bayes on the Beach 2026**, University of Wollongong, Australia 
+* **Melbourne Workshop on Macroeconomics, Finance, & Policy 2026**, Melbourne Business School, Australia.
+
+* **The 2026 ISBA World Meeting**, Nagoya, Japan — *Best Poster Prize*.
+
+* **The Bayesian Young Statisticians Meeting (BAYSM 2026)**, Chiba University, Japan.
+
+* **Bayes on the Beach 2026**, University of Wollongong, Australia.
