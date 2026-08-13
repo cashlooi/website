@@ -26,6 +26,7 @@ Hi, I’m Cash. I am a third-year PhD candidate in the Department of Econometric
 
 My research primarily focuses on categorical data analysis and Bayesian methods. I am interested in developing flexible statistical frameworks to better understand choice behavior and asymmetric preferences. My experience also includes household survey design and applied research in housing affordability.
 
+
 # Working paper 
 [1] **[A Multinomial Probit Model for Asymmetric Choice Responses](https://arxiv.org/abs/2608.10336)**.  
 *Joint work with [Ruben Loaiza-Maya](https://sites.google.com/view/rubenloaizamaya), and [Didier Nibbering](https://sites.google.com/view/didiernibbering/homepage)*.  
