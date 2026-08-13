@@ -36,3 +36,14 @@
 .navbar-brand.active {
   color: #333333 !important;     /* black when active */
 }
+
+a {
+  text-decoration: none !important; /* Removes the underline */
+  color: inherit !important;        /* Makes the link the same color as regular text */
+  font-weight: bold !important;     /* Makes the link bold */
+}
+
+/* Optional: Add a slight color change when you hover over the link so users know it's clickable */
+a:hover {
+  color: #555 !important; 
+}
